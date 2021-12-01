@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/ETAnderson/react-todo#readme",
   "dependencies": {
-    "jest": "^27.4.3"
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-jest": "^27.4.2",
+    "jest": "^27.4.3",
+    "react-test-renderer": "^17.0.2"
   }
 }
