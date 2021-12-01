@@ -1,0 +1,4 @@
+Todo MVC
+    1: display all todo
+    2: add a todo
+    3: mark a todo as complete
