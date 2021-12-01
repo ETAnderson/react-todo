@@ -1,0 +1,23 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "todo list built with react",
+  "main": "react-todo.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETAnderson/react-todo.git"
+  },
+  "keywords": [
+    "react",
+    "todo"
+  ],
+  "author": "Eric Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETAnderson/react-todo/issues"
+  },
+  "homepage": "https://github.com/ETAnderson/react-todo#readme"
+}
